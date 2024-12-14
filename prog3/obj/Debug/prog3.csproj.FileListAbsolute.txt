@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\prog3\prog3\bin\Debug\prog3.exe.config
+C:\Users\krist\source\repos\prog3\prog3\bin\Debug\prog3.exe
+C:\Users\krist\source\repos\prog3\prog3\bin\Debug\prog3.pdb
+C:\Users\krist\source\repos\prog3\prog3\obj\Debug\prog3.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\prog3\prog3\obj\Debug\prog3.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\prog3\prog3\obj\Debug\prog3.exe
+C:\Users\krist\source\repos\prog3\prog3\obj\Debug\prog3.pdb
